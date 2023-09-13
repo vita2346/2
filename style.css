@@ -6,11 +6,19 @@ background-color: FFFF73;
   border:7px solid FFFF73;
 }  
 header h1{
-  color: 7109AA;
-  text-align: center;
-  font-size:27px;
-  padding-top: 13px;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+position: absolute;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #7109AA;
+
+text-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
 }
 a{
   color:7109AA;

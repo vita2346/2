@@ -6,17 +6,12 @@ background-color: FFFF73;
   border:7px solid FFFF73;
 }  
 header h1{
-
-
-position: absolute;
   text-align: center;
   font-size:27px;
-  padding-top: 13px;
 color: 7109AA;
 font-family: 'Inter';
 font-style: normal;
-
-
+padding-top: 13px;
 color: #7109AA;
 
 text-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
